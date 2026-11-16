@@ -26,5 +26,9 @@
       "required": true,
       "sensitive": true
     }
-  }
+  },
+  "documentationUrl": "https://scrape.do/documentation",
+  "supportUrl": "https://github.com/scrape-do/claude-plugin/issues",
+  "termsOfServiceUrl": "https://scrape.do/terms-of-use/",
+  "privacyPolicyUrl": "https://scrape.do/privacy-policy/"
 }
